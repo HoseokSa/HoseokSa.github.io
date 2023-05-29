@@ -14,3 +14,5 @@ Education
 * Ph.D Student in Urban Design and Planning, University of Washington, Seattle, 2022 - Present
 * M.S. in Urban Planning, Seoul National University, 2018
 * B.S. in Urban Administration, University of Seoul, 2016
+
+[Curriculum Vitae (Hoseok SA).pdf](https://github.com/Plannerhsa/Plannerhsa.github.io/files/11593034/Curriculum.Vitae.Hoseok.SA.pdf)
