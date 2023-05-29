@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hoseok Sa / Ph.D. Student"
+title                    : "Hoseok Sa"
 title_separator          : "-"
 name                     : &name "Hoseok Sa"
 description              : &description "Ph.D. Student in Urban Design & Planning"
@@ -82,34 +82,22 @@ analytics:
 author:
   name             : "Hoseok Sa"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. Student, Department of Urban Design & Planning, University of Washington, Seattle"
+  location         : "Seattle, WA, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8hkntjoAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # "https://www.researchgate.net/profile/Hoseok-Sa"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  researchgate     : "https://www.researchgate.net/profile/Hoseok-Sa"
   github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
