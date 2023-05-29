@@ -38,7 +38,8 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields         : ['name', '
+  ', 'message']
   transforms:
     email                : "md5"
   generatedFields:
@@ -86,7 +87,7 @@ author:
   location         : "Seattle, WA, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=8hkntjoAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "hsa92@uw.edu"
   researchgate     : "https://www.researchgate.net/profile/Hoseok-Sa"
   github           : "Plannerhsa"
   google_plus      :
