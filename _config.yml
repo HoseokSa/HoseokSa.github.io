@@ -11,9 +11,9 @@ title                    : "Hoseok Sa"
 title_separator          : "-"
 name                     : &name "Hoseok Sa"
 description              : &description "Ph.D. Student in Urban Design & Planning"
-url                      : https://Plannerhsa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://HoseokSa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Plannerhsa/Plannerhsa.github.io"
+repository               : "HoseokSa/HoseokSa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -89,7 +89,7 @@ author:
   email            : "hsa92@uw.edu"
   googlescholar    : "https://scholar.google.com/citations?user=8hkntjoAAAAJ&hl=en&oi=ao"
   researchgate     : "https://www.researchgate.net/profile/Hoseok-Sa"
-  github           : "Plannerhsa"
+  github           : "HoseokSa"
   google_plus      :
   keybase          :
   instagram        :
