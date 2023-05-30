@@ -3,7 +3,6 @@ title: "Regional Characteristics of Job Creation by Gazelle-firms"
 collection: publications
 date: 2019
 venue: 'Journal of the Economic Geographical Society of Korea'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Sa, H. S. 2019. &quot; Regional Characteristics of Job Creation by Gazelle-firms.&quot; <i>Journal of the Economic Geographical Society of Korea</i>. 22(3).'
 ---
 
