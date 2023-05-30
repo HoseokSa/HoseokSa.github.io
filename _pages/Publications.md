@@ -5,14 +5,15 @@ author_profile: true
 ---
 {% include base_path %}
 
-Peer-Reviewed Publications
-======
 ### Research Interests: 
 * Intersection between Transportation, Population/Public Health, and Climate Change
 * Transportation Planning (Travel Behavior, Mobility, and Transportation Technologies)
 * Regional Economic Development (Technological Innovation, Human Capital, Regional Industry, and Regional Economic Growth)
 * Urban Form
 
+
+Peer-Reviewed Publications
+======
 *: corresponding author
 
 *  Sa, H. and Woo, H* (2021) Characteristics of Youth Attraction Types by Industrial Complexes in Korea, Journal of the Economic Geographical Society of Korea, 24(2), pp.181-200. [Download](https://doi.org/10.23841/egsk.2021.24.2.181) (In Korean)
