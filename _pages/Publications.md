@@ -7,7 +7,11 @@ author_profile: true
 
 Peer-Reviewed Publications
 ======
-### Research Interests: Intersection between Transportation, Population/Public Health, and Climate Change, Transportation Planning (Travel Behavior, Mobility, and Transportation Technologies), Regional Economic Development (Technological Innovation, and Human Capital), and Urban Form
+### Research Interests: 
+* Intersection between Transportation, Population/Public Health, and Climate Change
+* Transportation Planning (Travel Behavior, Mobility, and Transportation Technologies)
+* Regional Economic Development (Technological Innovation, Human Capital, Regional Industry, and Regional Economic Growth)
+* Urban Form
 
 *: corresponding author
 
