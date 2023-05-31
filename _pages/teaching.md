@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /teaching/
+permalink: /Teaching/
 author_profile: true
 ---
 {% include base_path %}
