@@ -6,7 +6,7 @@ author_profile: true
 {% include base_path %}
 
 # Research Interests 
-* Intersection between Transportation, Population/Public Health, and Climate Change
+* Intersection between Planning(or Transportation), Population/Public Health, and Climate Change
 * Urban Transportation Planning and Policy (Travel Behavior, Mobility, and Transportation Technologies)
 * Regional Economic Development (Technological Innovation, Human Capital, Regional Industry, and Regional Labor Markets)
 * Urban Form
