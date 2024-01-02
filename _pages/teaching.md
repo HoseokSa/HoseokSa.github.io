@@ -6,4 +6,4 @@ author_profile: true
 {% include base_path %}
 
 # University of Washington, Seattle
-* Comprehensive Planning And Implementation (Win 24)
+* URBDP 501 Comprehensive Planning And Implementation (Win 24)
