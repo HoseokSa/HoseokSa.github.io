@@ -6,7 +6,7 @@ author_profile: true
 {% include base_path %}
 
 # Research Interests 
-* Intersection between Built Environments(Land Use and Transportation), Population/Public Health, and Climate Change (Extreme Weather Events, Climate Resilience)
+* Intersection between Built Environments (Land Use and Transportation), Population/Public Health, and Climate Change (Extreme Weather Events, Climate Resilience)
 * Urban Transportation Planning and Policy (Travel Behavior, (Sustainable/New) Mobility, Transportation Resilience, and Transport Energy)
 * Regional Economic Development (Technological Innovation, Human Capital, Regional Industry, and Regional Labor Markets)
 * Urban Form
