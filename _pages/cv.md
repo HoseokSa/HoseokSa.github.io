@@ -14,5 +14,5 @@ Education
 * M.S. in Urban Planning, Seoul National University, 2018
 * B.S. in Urban Administration, University of Seoul, 2016
 
-[CV_HoseokSa.pdf](https://github.com/HoseokSa/HoseokSa.github.io/files/14395301/CV_HoseokSa.pdf)
+[CV_HoseokSa.pdf](https://github.com/HoseokSa/HoseokSa.github.io/blob/master/CV_HoseokSa.pdf))
 
