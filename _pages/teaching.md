@@ -8,5 +8,6 @@ author_profile: true
 # University of Washington, Seattle
 * Instructor    
 ** URBDP 422/522 Urban and Regional Geospatial Analysis (Win 25)
+
 * Teaching Assistant
 ** URBDP 501 Comprehensive Planning And Implementation (Win 24)
