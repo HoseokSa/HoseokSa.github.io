@@ -6,7 +6,7 @@ author_profile: true
 {% include base_path %}
 
 # University of Washington, Seattle
-**Instructor**    
+**Lecturer**    
 * URBDP 422/522 Urban and Regional Geospatial Analysis (Win 25)
 
 **Teaching Assistant**
