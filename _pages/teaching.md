@@ -11,3 +11,4 @@ author_profile: true
 
 **Teaching Assistant**
 * URBDP 501 Comprehensive Planning And Implementation (Win 24)
+* URBDP 561 Urban Economics And Public Policy (Spr 25)
