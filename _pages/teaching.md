@@ -12,4 +12,5 @@ author_profile: true
 **Teaching Assistant**
 * URBDP 501 Comprehensive Planning And Implementation (Winter 24)
 * URBAN 561 Urban Economics And Public Policy (Spring 25)
-* URBAN 520 Quantitative Methods in Urban Design and Planning (Fall 25) 
+* URBAN 520 Quantitative Methods in Urban Design and Planning (Fall 25)
+* R E 397 Introduction to Real Estate Data Modeling (Winter 26)
