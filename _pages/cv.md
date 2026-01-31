@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D Student in Urban Design and Planning, University of Washington, Seattle, 2022 - Present
+* Ph.D Candidate in Urban Design and Planning, University of Washington, Seattle, 2022 - Present
 * M.S. in Urban Planning, Seoul National University, 2018
 * B.S. in Urban Administration, University of Seoul, 2016
 
