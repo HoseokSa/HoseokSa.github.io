@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hoseok Sa"
 title_separator          : "-"
 name                     : &name "Hoseok Sa"
-description              : &description "Ph.D. Student in Urban Design & Planning"
+description              : &description "Ph.D. Candidate in Urban Design & Planning"
 url                      : https://HoseokSa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HoseokSa/HoseokSa.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hoseok Sa"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student, Department of Urban Design & Planning, University of Washington, Seattle"
+  bio              : "Ph.D. Candidate, Department of Urban Design & Planning, University of Washington, Seattle"
   location         : "Seattle, WA, USA"
   employer         :
   email            : "hsa92@uw.edu"
