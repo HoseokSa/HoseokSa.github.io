@@ -7,7 +7,7 @@ author_profile: true
 
 # Research Interests 
 * Urban Transportation Planning and Policy (Travel Behavior, (Sustainable/New) Mobility, Transportation Resilience, and Transport Energy)
-* Intersection between Built Environments (Land Use and Transportation), Population/Public Health, and Climate Change (Extreme Weather Events, Climate Resilience, Climate Mitigation/Adaptation/Maladaptation)
+* Intersection between Built Environments (Transportation, Land Use, and Land Cover), Population/Public Health, and Climate Change (Extreme Weather Events, Climate Resilience, Climate Mitigation/Adaptation/Maladaptation)
 * Regional Economic Development (Technological Innovation, Human Capital, Regional Industry, and Regional Labor Markets)
 
 
