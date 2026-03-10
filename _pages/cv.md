@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * Ph.D Candidate in Urban Design and Planning, University of Washington, Seattle, 2022 - Present
-* M.S. in Urban Planning, Seoul National University, 2018
-* B.S. in Urban Administration, University of Seoul, 2016
+* M. City Planning (City and Regional Planning), Seoul National University, 2018
+* B. Urban Administration, University of Seoul, 2016
 
 [CV_HoseokSa.pdf](https://drive.google.com/file/d/16QgWOVASH7_oWwlktav7pCIRrr7ERfo4/view?usp=sharing)
