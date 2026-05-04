@@ -13,5 +13,6 @@ author_profile: true
 * **Sa, H**. and Shen, Q. Understanding Employees’ Residential Choices in the New Normal Using Commute Seattle Survey. Association of Collegiate Schools of Planning Annual Conference, Chicago, Illinois, USA, Oct. 19–21, 2023.
 
 # Other Talks
+* **Sa, H**. and Hess, J. Linking Urban Environments, Climate Change, and Mental Health: Extreme heat, Emergency Department Utilization for Mental Health Care, and Interactions with Natural and Built Environments. 2026 Department of Emergency Medicine Research Showcase, University of Washington, Seattle, WA, USA, May. 7, 2026.  
 * Bae, C. and **Sa, H**. The Long Wave of Seattle’s Economic Growth. Research Seminar of the Interdisciplinary PhD Program in Urban Design and Planning, University of Washington, Seattle, WA, USA, Nov. 25, 2025. 
 * **Sa, H**. The Differential Accessibility Effects of Work from Home. PacTrans Research Workshop Fall 2024, Seattle, WA, USA, Nov. 1, 2024.
