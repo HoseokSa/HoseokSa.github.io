@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * Ph.D. Candidate in Urban Design and Planning, University of Washington, Seattle, 2022 - Present
-* Graduate Certificate in Statistics, The Center for Statistics and the Social Sciences, University of Washington, Seattle, 2026
+* Graduate Certificate in Statistics, Center for Statistics and the Social Sciences, University of Washington, Seattle, 2026
 * M. City Planning (City and Regional Planning), Seoul National University, 2018
 * B. Urban Administration, University of Seoul, 2016
 
