@@ -6,6 +6,7 @@ author_profile: true
 {% include base_path %}
 
 # Conference Presentations
+* **Sa, H.**, Ko, N., and Bae, C. AI Exposure and Regional Adaptive Capacity Across U.S. Metropolitan Areas. Western Regional Science Association (WRSA) 66th Annual Meeting, Carlsbad, California, USA, Feb. 14–17, 2027.
 * **Sa, H**. and Wang, Z. Autonomous Vehicles in the News: Sentiment and Topic Salience in National and Local Coverage. Transportation Research Board (TRB) 106th Annual Meeting, Washington, DC, USA, Jan. 10–14, 2027. 
 * **Sa, H**., Ling, C., and Shen, Q. Uncovering Influencing Factors and Latent Classes of EV Commuting: An XGBoost and Mixed-Outcome Latent Class Analysis Approach. Transportation Research Board (TRB) 106th Annual Meeting, Washington, DC, USA, Jan. 10–14, 2027. 
 * Kim, Y., Ha, J., and **Sa, H**. Linking Green Space Accessibility and Mental Health: Comparing Accessibility Metrics. Council of Educators in Landscape Architecture, Cincinnati, Ohio, USA, Mar. 18-21, 2026.
